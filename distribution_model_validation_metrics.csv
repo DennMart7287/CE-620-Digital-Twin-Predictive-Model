@@ -1,0 +1,9 @@
+Target Variable,R² Score,RMSE
+Pressure,-3.0,4.44089e-16
+Feed_Water,0.9991,2.30316e-03
+Feed_Ether,0.9958,5.12937e-04
+Feed_Solute,0.9994,1.72246e-03
+Extract_Water,0.9225,4.05279e-02
+Extract_Ether,0.8833,6.17487e-02
+Extract_Solute,0.9993,2.79428e-03
+K_Solute,0.9987,3.02435e-02

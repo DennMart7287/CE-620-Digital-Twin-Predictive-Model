@@ -1,0 +1,7 @@
+Phase Component Target,R² Score,RMSE
+Feed_Water,0.9991,2.25121e-03
+Feed_Ether,0.9954,5.28502e-04
+Feed_Solute,0.9995,1.62160e-03
+Extract_Water,0.9125,5.65186e-02
+Extract_Ether,0.879,7.56207e-02
+Extract_Solute,0.9982,4.48247e-03
